@@ -1,0 +1,9 @@
+{
+  "name": "vue-directive-hoist",
+  "version": "1.0.0",
+  "description": "A Vue directive for hoisting DOM elements to a higher parent node",
+  "main": "index.js",
+  "repository": "https://github.com/tserkov/vue-directive-hoist",
+  "author": "tserkov <james.churchard@gmail.com>",
+  "license": "MIT"
+}
