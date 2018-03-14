@@ -5,12 +5,12 @@ A Vue directive for hoisting DOM elements to a higher parent node.
 
 ``` bash
 # npm
-npm install --save-dev vue-directive-hoist
+npm install --save vue-directive-hoist
 ```
 
 ``` bash
 # yarn
-yarn add --dev vue-directive-hoist
+yarn add vue-directive-hoist
 ```
 
 ## Use
